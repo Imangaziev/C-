@@ -1,0 +1,15 @@
+/Users/lector/Desktop/C# ДЗ/task003/bin/Debug/net6.0/task003
+/Users/lector/Desktop/C# ДЗ/task003/bin/Debug/net6.0/task003.deps.json
+/Users/lector/Desktop/C# ДЗ/task003/bin/Debug/net6.0/task003.runtimeconfig.json
+/Users/lector/Desktop/C# ДЗ/task003/bin/Debug/net6.0/task003.dll
+/Users/lector/Desktop/C# ДЗ/task003/bin/Debug/net6.0/task003.pdb
+/Users/lector/Desktop/C# ДЗ/task003/obj/Debug/net6.0/task003.csproj.AssemblyReference.cache
+/Users/lector/Desktop/C# ДЗ/task003/obj/Debug/net6.0/task003.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lector/Desktop/C# ДЗ/task003/obj/Debug/net6.0/task003.AssemblyInfoInputs.cache
+/Users/lector/Desktop/C# ДЗ/task003/obj/Debug/net6.0/task003.AssemblyInfo.cs
+/Users/lector/Desktop/C# ДЗ/task003/obj/Debug/net6.0/task003.csproj.CoreCompileInputs.cache
+/Users/lector/Desktop/C# ДЗ/task003/obj/Debug/net6.0/task003.dll
+/Users/lector/Desktop/C# ДЗ/task003/obj/Debug/net6.0/refint/task003.dll
+/Users/lector/Desktop/C# ДЗ/task003/obj/Debug/net6.0/task003.pdb
+/Users/lector/Desktop/C# ДЗ/task003/obj/Debug/net6.0/task003.genruntimeconfig.cache
+/Users/lector/Desktop/C# ДЗ/task003/obj/Debug/net6.0/ref/task003.dll
