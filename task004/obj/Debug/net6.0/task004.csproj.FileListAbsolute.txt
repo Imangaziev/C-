@@ -1,0 +1,15 @@
+/Users/lector/Desktop/C# ДЗ/task004/bin/Debug/net6.0/task004
+/Users/lector/Desktop/C# ДЗ/task004/bin/Debug/net6.0/task004.deps.json
+/Users/lector/Desktop/C# ДЗ/task004/bin/Debug/net6.0/task004.runtimeconfig.json
+/Users/lector/Desktop/C# ДЗ/task004/bin/Debug/net6.0/task004.dll
+/Users/lector/Desktop/C# ДЗ/task004/bin/Debug/net6.0/task004.pdb
+/Users/lector/Desktop/C# ДЗ/task004/obj/Debug/net6.0/task004.csproj.AssemblyReference.cache
+/Users/lector/Desktop/C# ДЗ/task004/obj/Debug/net6.0/task004.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lector/Desktop/C# ДЗ/task004/obj/Debug/net6.0/task004.AssemblyInfoInputs.cache
+/Users/lector/Desktop/C# ДЗ/task004/obj/Debug/net6.0/task004.AssemblyInfo.cs
+/Users/lector/Desktop/C# ДЗ/task004/obj/Debug/net6.0/task004.csproj.CoreCompileInputs.cache
+/Users/lector/Desktop/C# ДЗ/task004/obj/Debug/net6.0/task004.dll
+/Users/lector/Desktop/C# ДЗ/task004/obj/Debug/net6.0/refint/task004.dll
+/Users/lector/Desktop/C# ДЗ/task004/obj/Debug/net6.0/task004.pdb
+/Users/lector/Desktop/C# ДЗ/task004/obj/Debug/net6.0/task004.genruntimeconfig.cache
+/Users/lector/Desktop/C# ДЗ/task004/obj/Debug/net6.0/ref/task004.dll
